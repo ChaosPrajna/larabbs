@@ -32,7 +32,7 @@ body {
 }
 
 .footer {
-    
+
     position: absolute;
     bottom: 0;
     width: 100% ;
@@ -52,5 +52,15 @@ body {
                 color: inherit;
             }
         }
+    }
+}
+
+
+/* User register page */
+.register-page {
+    img.captcha {
+        margin-bottom: 0px;
+        margin-top: 10px;
+        cursor: pointer;
     }
 }
